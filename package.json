@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "[https://rkadel1488.github.io/boosthub](https://rkadel1488.github.io/boosthub)",
+  "homepage": "https://rkadel1488.github.io/boosthub",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
